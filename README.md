@@ -28,6 +28,4 @@ The program then prints the following summary data.
 
 
 ## Example
-Use the address file *addresses.txt* or generate your own.
-
-__./cache 65536 1 256 addresses.txt__
+__./java Scheduling <inputfile>__
