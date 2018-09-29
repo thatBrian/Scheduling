@@ -28,4 +28,5 @@ The program then prints the following summary data.
 
 
 ## Example
-__./java Scheduling <inputfile>__
+
+__./java Scheduling "input file"__
